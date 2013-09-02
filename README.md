@@ -37,10 +37,10 @@ console.log(
 
 ## Docs
 
-Documentation is in the [docs/jsdoc](./docs/jsdoc/symbols/_global_.html) folder.
+Documentation is in the [docs/jsdoc](http://matthewkastor.github.io/atropa-string-pad/docs/jsdoc/symbols/_global_.html) folder.
 Visual Studio intellisense files are in [docs/vsdocs](./docs/vsdoc/OpenLayersAll.js)
 
 ## Tests
 
 Run the tests in node with `npm test`. Run the tests in your browser by opening 
-[atropa-string-pad tester.html](./atropa-string-pad tester.html).
+[atropa-string-pad tester.html](http://matthewkastor.github.io/atropa-string-pad/atropa-string-pad tester.html).
