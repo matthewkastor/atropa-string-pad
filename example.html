@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <script src="./src/atropa-string-pad.js"
+              type="text/javascript">
+</script>
+        <script type="text/javascript">
+
+            function btn_action () {
+                var els = {};
+                var ids = [
+                    'padLength',
+                    'padInput',
+                    'padPadding',
+                    'padRight',
+                    'resultDisplay'
+                ];
+                ids.forEach(function (name) {
+                    els[name] = document.getElementById(name);
+                });
+                els.resultDisplay.textContent = pad(
+                    els.padLength.value,
+                    els.padInput.value,
+                    els.padPadding.value,
+                    els.padRight.checked
+                );
+            }
+        </script>
+        <title>
+            Example Usage of atropa-string-pad.js
+        </title>
+    </head>
+    <body>
+        <h1>
+            Example Usage of atropa-string-pad.js
+        </h1>
+        
+        <p>
+            Length: <input type="text"
+               id="padLength">
+            <br>
+            Input: <input type="text"
+               id="padInput">
+            <br>
+            Padding: <input type="text"
+               id="padPadding">
+            <br>
+            Right: <input type="checkbox"
+               id="padRight">
+            <br>
+            <button onclick="btn_action();">pad</button>
+            <br>
+        </p>
+
+        <p>
+            <b>Results</b>
+        </p>
+
+        <div id="resultDisplay">
+        </div>
+    </body>
+</html>

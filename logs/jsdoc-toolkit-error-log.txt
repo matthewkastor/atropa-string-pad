@@ -1,0 +1,21 @@
+ > JsDoc Toolkit main() running at Mon Sep 02 2013 16:06:46 GMT-0400 (EDT).
+ > With options: 
+ >     d: C:\Users\kastor\Desktop\experiments\pad\src\..\docs\jsdoc
+ >     o: C:\Users\kastor\Desktop\experiments\pad\src\..\logs\jsdoc-toolkit-error-log.txt
+ >     p: true
+ >     r: 10
+ >     t: C:\Users\kastor\Documents\applications\javascript related\tools\jsdoc_toolkit-2.4.0\templates\jsdoc\
+ >     _: C:\Users\kastor\Desktop\experiments\pad\src
+ >     a: true
+ > Output directory set to 'C:\Users\kastor\Desktop\experiments\pad\src\..\docs\jsdoc/'.
+ > JsDoc Toolkit main() running at Mon Sep 02 2013 16:06:48 GMT-0400 (EDT).
+ > With options: 
+ >     d: C:\Users\kastor\Desktop\experiments\pad\src\..\docs\vsdoc
+ >     o: C:\Users\kastor\Desktop\experiments\pad\src\..\logs\jsdoc-toolkit-error-log.txt
+ >     p: true
+ >     r: 10
+ >     t: C:\Users\kastor\Documents\applications\javascript related\tools\jsdoc_toolkit-2.4.0\templates\vsdoc\
+ >     _: C:\Users\kastor\Desktop\experiments\pad\src
+ >     a: true
+ > Output directory set to 'C:\Users\kastor\Desktop\experiments\pad\src\..\docs\vsdoc/'.
+ > Saving file for symbol _global_
