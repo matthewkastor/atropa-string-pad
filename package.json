@@ -1,6 +1,6 @@
 {
     "name"          : "atropa-string-pad",
-    "version"       : "0.1.0-1",
+    "version"       : "0.1.0-2",
     "main"          : "./src/atropa-string-pad.js",
     "description"   : "Pads strings on the right or left with user defined characters or strings.",
     "keywords"      : ["atropa", "string", "pad", "text"],
