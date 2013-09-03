@@ -1,21 +1,21 @@
- > JsDoc Toolkit main() running at Mon Sep 02 2013 16:06:46 GMT-0400 (EDT).
+ > JsDoc Toolkit main() running at Tue Sep 03 2013 13:59:58 GMT-0400 (EDT).
  > With options: 
- >     d: C:\Users\kastor\Desktop\experiments\pad\src\..\docs\jsdoc
- >     o: C:\Users\kastor\Desktop\experiments\pad\src\..\logs\jsdoc-toolkit-error-log.txt
+ >     d: C:\Users\kastor\Documents\GitHub\atropa-string-pad\src\..\docs\jsdoc
+ >     o: C:\Users\kastor\Documents\GitHub\atropa-string-pad\src\..\logs\jsdoc-toolkit-error-log.txt
  >     p: true
  >     r: 10
  >     t: C:\Users\kastor\Documents\applications\javascript related\tools\jsdoc_toolkit-2.4.0\templates\jsdoc\
- >     _: C:\Users\kastor\Desktop\experiments\pad\src
+ >     _: C:\Users\kastor\Documents\GitHub\atropa-string-pad\src
  >     a: true
- > Output directory set to 'C:\Users\kastor\Desktop\experiments\pad\src\..\docs\jsdoc/'.
- > JsDoc Toolkit main() running at Mon Sep 02 2013 16:06:48 GMT-0400 (EDT).
+ > Output directory set to 'C:\Users\kastor\Documents\GitHub\atropa-string-pad\src\..\docs\jsdoc/'.
+ > JsDoc Toolkit main() running at Tue Sep 03 2013 13:59:59 GMT-0400 (EDT).
  > With options: 
- >     d: C:\Users\kastor\Desktop\experiments\pad\src\..\docs\vsdoc
- >     o: C:\Users\kastor\Desktop\experiments\pad\src\..\logs\jsdoc-toolkit-error-log.txt
+ >     d: C:\Users\kastor\Documents\GitHub\atropa-string-pad\src\..\docs\vsdoc
+ >     o: C:\Users\kastor\Documents\GitHub\atropa-string-pad\src\..\logs\jsdoc-toolkit-error-log.txt
  >     p: true
  >     r: 10
  >     t: C:\Users\kastor\Documents\applications\javascript related\tools\jsdoc_toolkit-2.4.0\templates\vsdoc\
- >     _: C:\Users\kastor\Desktop\experiments\pad\src
+ >     _: C:\Users\kastor\Documents\GitHub\atropa-string-pad\src
  >     a: true
- > Output directory set to 'C:\Users\kastor\Desktop\experiments\pad\src\..\docs\vsdoc/'.
+ > Output directory set to 'C:\Users\kastor\Documents\GitHub\atropa-string-pad\src\..\docs\vsdoc/'.
  > Saving file for symbol _global_

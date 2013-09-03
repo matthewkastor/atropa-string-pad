@@ -7,7 +7,18 @@
 */
 
 /**
- * Pad strings.
+ * @fileOverview atropa-string-pad: Pads strings on the right or left with user
+ *  defined characters or strings.
+ * @author <a href="mailto:matthewkastor@gmail.com">
+ *  Matthew Christopher Kastor-Inare III </a><br />
+ *  ☭ Hial Atropa!! ☭
+ */
+
+/**
+ * Pads strings on the right or left with user defined characters or strings.
+ * @author <a href="mailto:matthewkastor@gmail.com">
+ *  Matthew Christopher Kastor-Inare III </a><br />
+ *  ☭ Hial Atropa!! ☭
  * @param {Number} length The desired length of the string.
  * @param {String|Number} input The string or number to pad.
  * @param {String} padding The string to use for padding, may be one or more

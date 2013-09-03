@@ -9,7 +9,7 @@
         /// <returns type="_global_"/>
                 
         pad: function(length, input, padding, right) {
-            /// <summary>Pad strings.</summary>
+            /// <summary>Pads strings on the right or left with user defined characters or strings.</summary>
             /// <param name="length" type="Number">The desired length of the string.</param>
             /// <param name="input" type="String|Number">The string or number to pad.</param>
             /// <param name="padding" type="String">The string to use for padding, may be one or more
