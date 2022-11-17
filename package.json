@@ -1,28 +1,33 @@
 {
-    "name"          : "atropa-string-pad",
-    "version"       : "0.1.0-4",
-    "main"          : "./src/atropa-string-pad.js",
-    "description"   : "Pads strings on the right or left with user defined characters or strings.",
-    "keywords"      : ["atropa", "string", "pad", "text"],
-    "homepage"      : "https://github.com/matthewkastor/atropa-string-pad/",
-    "bugs"          : "https://github.com/matthewkastor/atropa-string-pad/issues",
-    "author"        : {
-                        "name"      : "Matthew Kastor",
-                        "email"     : "matthewkastor@gmail.com",
-                        "url"       : "https://plus.google.com/100898583798552211130"
-    },
-    "repository"    : {
-                        "type"      : "git",
-                        "url"       : "git://github.com/matthewkastor/atropa-string-pad.git"
-    },
-    "engines"       : {
-                        "node"      : ">=0.8.14"
-    },
-    "dependencies": {
-                        "jasmine-node" : ">=1.11.0"
-    },
-    "scripts"       : {
-                        "test" : "jasmine-node spec"
-    },
-    "license" : "GPL-3.0"
+          "name": "atropa-string-pad",
+          "version": "2022.11.16",
+          "main": "./src/atropa-string-pad.js",
+          "description": "Pads strings on the right or left with user defined characters or strings.",
+          "keywords": [
+                    "atropa",
+                    "string",
+                    "pad",
+                    "text"
+          ],
+          "homepage": "https://github.com/matthewkastor/atropa-string-pad/",
+          "bugs": "https://github.com/matthewkastor/atropa-string-pad/issues",
+          "author": {
+                    "name": "Matthew Kastor",
+                    "email": "matthewkastor@gmail.com",
+                    "url": "https://plus.google.com/100898583798552211130"
+          },
+          "repository": {
+                    "type": "git",
+                    "url": "git://github.com/matthewkastor/atropa-string-pad.git"
+          },
+          "engines": {
+                    "node": ">=0.8.14"
+          },
+          "dependencies": {
+                    "jasmine-node": ">=1.11.0"
+          },
+          "scripts": {
+                    "test": "jasmine-node spec"
+          },
+          "license": "GPL-3.0"
 }
